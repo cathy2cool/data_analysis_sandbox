@@ -1,4 +1,4 @@
-color
-blue
-green
-red 
+r,g,b
+0,0,1
+0,1,0
+1,0,0
